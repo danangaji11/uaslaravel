@@ -13,9 +13,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return ('dashboard');
-    
+Route::get('/dashboard', function () {
+    return view('dashboard');
 });
 
 Route::get('/new', function () {
