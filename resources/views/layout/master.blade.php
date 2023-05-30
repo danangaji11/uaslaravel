@@ -40,7 +40,7 @@
             </div>
             <div class="sidebar-wrapper">
                 <ul class="nav">
-                    <li class="active ">
+                    <li>
                         <a href="/dashboard">
                             <i class="nc-icon nc-bank"></i>
                             <p>Dashboard</p>
